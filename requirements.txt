@@ -1,0 +1,8 @@
+fuzzywuzzy==0.6.2
+numpy==1.11.0
+pandas==0.18.1
+xlrd==0.9.4
+XlsxWriter==0.7.7
+PySide==1.2.4
+scipy==0.18.0
+scikit_learn==0.18rc2
